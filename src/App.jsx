@@ -17,6 +17,9 @@ function App() {
       <div style={{ color: "yellow" }}>
         <h1>Hello word</h1>
       </div>
+      <div style={{ color: "pink" }}>
+        <h1>Hello word</h1>
+      </div>
     </>
   );
 }
